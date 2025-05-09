@@ -39,3 +39,20 @@ This project aims to predict the presence of heart disease using patient health 
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn
 - TensorFlow / Keras
+
+## 🧠 Model Architecture
+![Model Architecture](images/nn_diagram.png)
+
+## 📈 Training Metrics
+![Accuracy Curve](https://github.com/user-attachments/assets/6bed786b-1548-4dd9-95cd-ab3dc947114c)
+
+## 🔍 Confusion Matrix
+![Confusion Matrix](https://github.com/user-attachments/assets/ec93c95f-f3d6-46b6-a0d4-ecf598191f7e)
+
+## 📈 Model Performance
+
+### 🔹 Accuracy Curve
+<img src = https://github.com/user-attachments/assets/ba752af8-0f55-4cdd-b6a8-5d73434b6074 width = 700 height = 350>
+
+
+
