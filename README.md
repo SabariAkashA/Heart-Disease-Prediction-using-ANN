@@ -40,8 +40,6 @@ This project aims to predict the presence of heart disease using patient health 
 - Scikit-learn
 - TensorFlow / Keras
 
-## 🧠 Model Architecture
-![Model Architecture](images/nn_diagram.png)
 
 ## 📈 Training Metrics
 ![Accuracy Curve](https://github.com/user-attachments/assets/6bed786b-1548-4dd9-95cd-ab3dc947114c)
@@ -54,5 +52,6 @@ This project aims to predict the presence of heart disease using patient health 
 ### 🔹 Accuracy Curve
 <img src = https://github.com/user-attachments/assets/ba752af8-0f55-4cdd-b6a8-5d73434b6074 width = 700 height = 350>
 
-
+### 🔍 Confusion Matrix
+<img src = https://github.com/user-attachments/assets/8728211f-5f30-4058-8591-098ce1406e65 width = 400 height = 350>
 
